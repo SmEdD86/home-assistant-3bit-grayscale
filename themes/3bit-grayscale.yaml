@@ -12,6 +12,5 @@
   gscale-white: rgb(255,255,255)
   primary-color: var(--gscale-white)
   text-primary-color: var(--gscale-black)
-  ha-card:
-    border-style: "none"
-    border-radius: "unset"
+  ha-card-border-style: "none"
+  ha-card-border-radius: "unset"

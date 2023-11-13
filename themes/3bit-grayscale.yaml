@@ -13,5 +13,5 @@
   primary-color: rgb(255,255,255)
   text-primary-color: rgb(0,0,0)
   ha-card:
-    border-style: none;
-    border-radius: unset;
+    border-style: none
+    border-radius: unset

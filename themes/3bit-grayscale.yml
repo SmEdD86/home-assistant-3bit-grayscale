@@ -1,0 +1,6 @@
+#
+# 3-Bit Grayscale
+#
+3bit-grayscale:
+  primary-color: rgb(255,255,255)
+  text-primary-color: rgb(0,0,0)

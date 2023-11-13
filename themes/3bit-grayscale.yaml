@@ -2,5 +2,18 @@
 # 3-Bit Grayscale
 #
 3bit-grayscale:
+  gscale-0: rgb(0,0,0)
+  gscale-1: rgb(36,36,36)
+  gscale-2: rgb(73,73,73)
+  gscale-3: rgb(109,109,109)
+  gscale-4: rgb(146,146,146)
+  gscale-5: rgb(182,182,182)
+  gscale-6: rgb(219,219,219)
+  gscale-7: rgb(255,255,255)
   primary-color: rgb(255,255,255)
   text-primary-color: rgb(0,0,0)
+  ha-card: |
+  {
+    border-style: none;
+    border-radius: unset;
+  }
